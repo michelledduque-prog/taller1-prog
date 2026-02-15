@@ -1,7 +1,7 @@
 # PROGRAMACIÓN
 ---
 
-## 1. ¿Cuáles son los tipos de datos primitivos en Java?
+### 1. ¿Cuáles son los tipos de datos primitivos en Java?
 
 •	byte, short, int, long (enteros).
 
@@ -11,7 +11,7 @@
 
 •	boolean (true/false).
 
-## 2. ¿Cómo funcionan las estructuras de control de flujo como if, else, switch y bucles en Java?
+#### 2. ¿Cómo funcionan las estructuras de control de flujo como if, else, switch y bucles en Java?
 
 •	if, else, switch para decisiones.
 
