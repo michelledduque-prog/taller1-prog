@@ -1,4 +1,5 @@
 # PROGRAMACIÓN
+---
 
 ## 1. ¿Cuáles son los tipos de datos primitivos en Java?
 
